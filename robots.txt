@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oeyahnaip.aem1k.com/sitemap.xml
